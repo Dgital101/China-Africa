@@ -20,7 +20,7 @@ class Gallery extends Component
                  </section >
 
                  <section className="page-section" id="gallery">
-                 <Carousel>
+                 <Carousel id="car">
       <Carousel.Item>
         <img
           className="d-block w-75"

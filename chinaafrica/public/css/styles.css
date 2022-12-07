@@ -11418,7 +11418,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/home1.jpg");
+  background-image: url("../assets/img/home7.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11805,9 +11805,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-color:#F5F8FA;
   margin-bottom:-10%;
 }
-Carousel.Caption{
-  color: green;
-}
+
 
 #values
 {
@@ -11898,3 +11896,7 @@ border: 1px solid green;
   
 } 
 
+.page-section#car
+{
+  color:rgba(0, 133, 0, 1);
+}
