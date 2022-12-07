@@ -29,15 +29,15 @@ class Services extends Component
                             
                         </div>
                         <div class="col-md-4">
-                            <img src="assets/img/advisory.jpg" alt="Avatar" className="rounded-circle" width="200" height="200"/>
+                            <img src="assets/img/trade.jpg" alt="Avatar" className="rounded-circle" width="200" height="200"/>
                             <h4 className ="my-3">Trade</h4>
-                            <p className="text-muted">We help you to purchaseany product you want from China. We have partnered with
+                            <p className="text-muted">We help you to purchase any product you want from China. We have partnered with
                              a number of suppliers and Manufacturers.</p>
                         </div>
                         <div class="col-md-4">
-                        <img src="assets/img/advisory.jpg" alt="Avatar" className="rounded-circle" width="200" height="200"/>
+                        <img src="assets/img/fin.jpg" alt="Avatar" className="rounded-circle" width="200" height="200"/>
                         <h4 className ="my-3">Money Transfer</h4>
-                            <p className="text-muted">We help you to purchaseany product you want from China. We have partnered with
+                            <p className="text-muted">We help you to purchase any product you want from China. We have partnered with
                              a number of suppliers and Manufacturers.</p>
                         </div>
                         

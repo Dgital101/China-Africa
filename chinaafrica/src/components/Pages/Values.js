@@ -7,7 +7,7 @@ class Values extends Component
     {
         return(
             <div >
-                <section className="page-section" id="services">
+                <section className="page-section" id="values">
                         <div className="text-center">
                             <h2 className="section-heading text-uppercase">Why Choose Us</h2>
                         </div>
@@ -16,7 +16,7 @@ class Values extends Component
                 
                  </section >
 
-                 <section className="page-section" id="services">
+                 <section className="page-section" id="values">
                  <div class="container">
               
                     <div class="row text-center">

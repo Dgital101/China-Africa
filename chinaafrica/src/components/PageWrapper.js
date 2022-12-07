@@ -18,11 +18,12 @@ class PageWrapper extends Component
                 </button>
                 <div className="collapse navbar-collapse" id="navbarResponsive">
                     <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li className="nav-item"><a className="nav-link" href="#services">Home</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#portfolio">Values</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#about">Services</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#team">Gallery</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#team"><a className="btn btn-warning btn-large" href="#" id='appointment'>Contact </a></a></li>
+                        <li className="nav-item"><a className="nav-link" href="#home">Home</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#values">Values</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#services">Services</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#gallery">Gallery</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#contact"><a className="btn btn-warning btn-large" href="#contact" id='appointment'>Contact </a></a></li>
                     </ul>
                 </div>
             </div>

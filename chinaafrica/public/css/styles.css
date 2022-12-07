@@ -11800,6 +11800,22 @@ section#contact form#contactForm :-ms-input-placeholder {
   
 } 
 
+#gallery
+{
+  background-color:#F5F8FA;
+  margin-bottom:-10%;
+}
+Carousel.Caption{
+  color: green;
+}
+
+#values
+{
+  background-color:#F5F8FA;
+  margin-bottom:-10%;
+  
+} 
+
 #about
 {
   background-color:#F5F8FA;

@@ -6,7 +6,7 @@ class Home extends Component
     render()
     {
         return(
-            <div>
+            <div id = "home">
                 <header className="masthead">
                     <div className="trolley"> </div>
                     <div className="container">

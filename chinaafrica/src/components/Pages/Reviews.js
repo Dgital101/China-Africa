@@ -31,7 +31,7 @@ class Reviews extends Component
                         </div>
                         <div className="col-md-4" id="rev">
                             <box  >
-                            <img src="assets/img/advisory.jpg" alt="Avatar" className="rounded-circle" width="120" height="120"/>
+                            <img src="assets/img/njabulo.jpg" alt="Avatar" className="rounded-circle" width="120" height="120"/>
                             <h6 className ="my-3">Njabulo Masilela</h6>
                             <p className="text-muted1">"We help you to purchaseany product you want from China. We have partnered with
                              a number of suppliers and Manufacturers".</p>
