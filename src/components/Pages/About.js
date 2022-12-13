@@ -9,12 +9,12 @@ class About extends Component
             <section className="page-section" id="about">
             <div className="container">
                 <div className="text-center">
-                    <h2 className="section-heading text-uppercase">About Us</h2>
-                    <h3 className="section-subheading text-muted"> <hr id="line"></hr></h3>
+                    <h2 className="section-heading text-uppercase" data-aos="fade-up" data-aos-delay="100">About Us</h2>
+                    <h3 className="section-subheading text-muted" data-aos="fade-up" data-aos-delay="100"> <hr id="line"></hr></h3>
                 </div>
                 <ul className="timeline">
                     <li>
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div className="timeline-image" data-aos="fade-up" data-aos-delay="100"><img className="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>2009-2011</h4>
@@ -24,7 +24,7 @@ class About extends Component
                         </div>
                     </li>
                     <li className="timeline-inverted">
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                        <div className="timeline-image" data-aos="fade-up" data-aos-delay="100"><img className="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>March 2011</h4>
@@ -34,7 +34,7 @@ class About extends Component
                         </div>
                     </li>
                     <li>
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
+                        <div className="timeline-image" data-aos="fade-up" data-aos-delay="100"><img className="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>December 2015</h4>
@@ -44,7 +44,7 @@ class About extends Component
                         </div>
                     </li>
                     <li className="timeline-inverted">
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
+                        <div className="timeline-image" data-aos="fade-up" data-aos-delay="100"><img className="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>July 2020</h4>
@@ -54,7 +54,7 @@ class About extends Component
                         </div>
                     </li>
                     <li className="timeline-inverted">
-                        <div className="timeline-image">
+                        <div className="timeline-image" data-aos="fade-up" data-aos-delay="100">
                             <h4>
                                 Be Part
                                 <br />

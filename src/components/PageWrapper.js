@@ -21,7 +21,7 @@ class PageWrapper extends Component
                         <li className="nav-item"><a className="nav-link" href="#home">Home</a></li>
                         <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
                         <li className="nav-item"><a className="nav-link" href="#values">Values</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#services">Services</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#Services">Services</a></li>
                         <li className="nav-item"><a className="nav-link" href="#gallery">Gallery</a></li>
                         <li className="nav-item"><a className="nav-link" href="#contact"><a className="btn btn-warning btn-large" href="#contact" id='appointment'>Contact </a></a></li>
                     </ul>

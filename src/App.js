@@ -8,6 +8,7 @@ import Reviews from "./components/Pages/Reviews";
 import Contact from "./components/Pages/Contact";
 import Footer from "./components/Pages/Footer";
 import About from "./components/Pages/About";
+import Team from "./components/Pages/Team";
 //import {BrowserRouter as Router, Route, Routes, Link} from 'react-router-dom';
 
 class App extends Component{
@@ -20,7 +21,8 @@ class App extends Component{
         <Values/>
         <Services/>
         <About/>
-        <Gallery/>
+        <Team/>
+        {/* <Gallery/> */}
         <Reviews/>
         <Contact/>
         <Footer/>
